@@ -18,7 +18,7 @@ FileRestrictionApp is a C++ application designed to restrict copy, paste, drag, 
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/FileRestrictionApp.git
+   https://github.com/Geeg-On-Hub/C_A.git
     ```
 2. **Open the project in Visual Studio**:
     - Open Visual Studio.
