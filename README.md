@@ -1,4 +1,4 @@
-<b>FileRestrictionApp</b>
+<h1>FileRestrictionApp</h1>
 Introduction
 FileRestrictionApp is a C++ application designed to restrict copy, paste, drag, and drop operations within a specified folder. The application ensures that no content can be copied into or out of the restricted folder.
 
