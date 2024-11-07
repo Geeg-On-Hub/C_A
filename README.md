@@ -60,4 +60,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Add this content to your `README.md` file in your repository to provide a detailed guide for others on how to use your project. Let me know if there's anything else you'd like to include!
