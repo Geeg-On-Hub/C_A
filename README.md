@@ -24,9 +24,10 @@ FileRestrictionApp is a C++ application designed to restrict copy, paste, drag, 
     - Open Visual Studio.
     - Go to `File` > `Open` > `Project/Solution` and select the `.sln` file in the cloned repository.
     - Edit this folder location with your folder.
-     -main.cpp
+     - main.cpp
+
        ```bash
-const std::string rootFolder ="C:\\Users\\mtcro\\Desktop\\New folder";
+       const std::string rootFolder ="C:\\Users\\mtcro\\Desktop\\New folder"
         ```
 
 ### Building the Application
